@@ -8,6 +8,7 @@ dependencies = [
     "matplotlib>=3.8",
     "mujoco>=3.2",
     "numpy>=1.26",
+    "scipy>=1.15.3",
 ]
 
 [tool.uv]
