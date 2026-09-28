@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 *.h5
+
+lecture3/systems/spacecraft*
+lecture3/outs/**
+lecture3/.venv/
